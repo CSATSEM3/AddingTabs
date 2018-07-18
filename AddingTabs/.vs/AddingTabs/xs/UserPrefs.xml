@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{D29EFB08-7479-4A6B-BD45-2AB34932C84E}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AddingTabs Status">
+    <Files>
+      <File FileName="AddingTabs/MainActivity.cs" Line="30" Column="47" />
+      <File FileName="AddingTabs/AudioFragment.cs" Line="58" Column="2" />
+      <File FileName="AddingTabs/VideoFragment.cs" Line="31" Column="2" />
+      <File FileName="AddingTabs Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AddingTabs AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+</Properties>
